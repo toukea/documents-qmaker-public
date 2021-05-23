@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My little page</title>
+</head>
+<body>
+	<p>Warning redirect in progress</p>
+
+	<script type="text/javascript">
+		var params = new URLSearchParams(location.search);
+		var time = params.get('ttl') || 3000;
+
+		console.log(params.get('redirectUri'));
+
+		setTimeout(function(){
+			location.href = params.get('redirectUri') || '';
+		}, parseInt(time));
+	</script>
+</body>
+</html>
+

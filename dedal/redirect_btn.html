@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<script type="text/javascript">
+		var params = new URLSearchParams(location.search);
+		console.log(params.get('redirectUri'));
+
+		if (params.get('redirectUri')) {
+			var a = document.createElement('a');
+			a.href = params.get('redirectUri');
+			a.text = 'Redirect Button';
+			a.target = '_self';
+			document.body.appendChild(a);
+		}
+	</script>
+</body>
+</html>
+

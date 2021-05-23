@@ -1,0 +1,40 @@
+Politique de confidentialité de l'application Change à 10
+
+Cette page est utilisée pour informer les visiteurs du site Web concernant nos politiques en matière de collecte, d'utilisation et de divulgation des renseignements personnels si quelqu'un décide d'utiliser notre service, l'application Change à 10.
+
+Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation des informations en relation avec cette politique.
+Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation des informations en relation avec cette politique. Les informations personnelles que nous collectons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec qui que ce soit, sauf comme décrit dans cette politique de confidentialité.
+
+-------------------------------------------------- ------------
+1-Collecte et utilisation des informations
+Pour une meilleure expérience lors de l'utilisation de notre service, nous pouvons vous demander de nous fournir certaines informations personnellement identifiables, y compris, mais sans s'y limiter, votre nom, numéro de téléphone et adresse postale. Les informations que nous collectons seront utilisées pour vous contacter ou vous identifier.
+-------------------------------------------------- ------------
+Données 2 journaux
+Nous souhaitons vous informer que nous utilisons un outil d'analyse Google appelé Firebase; Ainsi, chaque fois que vous visitez notre application, nous recueillons des informations que l'application nous envoie et qui sont appelées Données de journal. Ces données de journal peuvent inclure des informations telles que l'adresse de protocole Internet («IP») de votre appareil, la version de l'application, l'identifiant de l'appareil, les pages de notre application que vous visitez, l'heure et la date de votre visite, le temps passé sur ces pages, etc. statistiques.
+
+Les outils d'analyse Firebase collectent des informations qui nous aident à améliorer le service. Nous recueillons et utilisons ces informations analytiques sous forme agrégée de sorte qu'elles ne puissent raisonnablement pas être manipulées pour identifier un utilisateur individuel particulier.
+-------------------------------------------------- -------------
+Données gérées par 3 applications.
+Toutes les données gérées par cette application restent locales sur votre appareil et ne sont jamais partagées nulle part
+-------------------------------------------------- -------------
+4 fournisseurs de services
+Nous pouvons employer des sociétés tierces et des particuliers pour les raisons suivantes:
+
+Pour faciliter notre service;
+Pour fournir le service en notre nom;
+Pour exécuter des services liés au service; ou
+Pour nous aider à analyser l'utilisation de notre service.
+Nous souhaitons informer les utilisateurs de nos services que ces tiers ont accès à vos informations personnelles. La raison est d'accomplir les tâches qui leur sont confiées en notre nom. Cependant, ils sont tenus de ne pas divulguer ni utiliser les informations à d'autres fins.
+-------------------------------------------------- ---------------
+5-Sécurité
+Nous apprécions votre confiance en nous fournissant vos informations personnelles, c'est pourquoi nous nous efforçons d'utiliser des moyens commercialement acceptables pour les protéger. Mais rappelez-vous qu'aucune méthode de transmission sur Internet ou méthode de stockage électronique n'est sûre et fiable à 100%, et nous ne pouvons garantir sa sécurité absolue.
+-------------------------------------------------- ---------------
+6-Liens vers d'autres sites
+Notre service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez dirigé vers ce site. Notez que ces sites externes ne sont pas exploités par nous. Par conséquent, nous vous conseillons vivement de consulter la politique de confidentialité de ces sites Web. Nous n'avons aucun contrôle sur le contenu, les politiques de confidentialité ou les pratiques de tout site ou service tiers et n'assumons aucune responsabilité.
+-------------------------------------------------- ---------------
+7-Modifications de cette politique de confidentialité
+Nous pouvons mettre à jour notre politique de confidentialité de temps à autre. Ainsi, nous vous conseillons de revoir cette page périodiquement pour tout changement. Nous vous informerons de tout changement en publiant la nouvelle politique de confidentialité sur cette page. Ces modifications entrent en vigueur immédiatement, après leur publication sur cette page.
+-------------------------------------------------- --------------
+8-Contactez-nous
+Si vous avez des questions ou des suggestions concernant notre politique de confidentialité, n'hésitez pas à nous contacter.
+courriel: dev@veone.net

@@ -1,0 +1,73 @@
+Conditions générales d'utilisation de QcmMaker
+
+
+ARTICLE 1 : Objet
+
+Les présentes « conditions générales d'utilisation » ont pour objet l'encadrement juridique des modalités de mise à disposition des services de l'application QcmMaker et leur utilisation par « l'Utilisateur ».
+
+Les conditions générales d'utilisation doivent être acceptées par tout Utilisateur souhaitant utiliser l'application. Elles constituent le contrat entre l'application et l'Utilisateur. L’utilisation de l'application par l’Utilisateur signifie son acceptation des présentes conditions générales d’utilisation.
+
+Éventuellement :
+
+En cas de non-acceptation des conditions générales d'utilisation stipulées dans le présent contrat, l'Utilisateur se doit de renoncer à l'accès des services proposés par l'application.
+
+QcmMaker se réserve le droit de modifier unilatéralement et à tout moment le contenu des présentes conditions générales d'utilisation.
+
+ARTICLE 2 : Définitions
+
+La présente clause a pour objet de définir les différents termes essentiels du contrat :
+
+Utilisateur : ce terme désigne toute personne qui utilise l'application ou l'un des services proposés par l'application.
+
+Contenu utilisateur : ce sont les données transmises par l'Utilisateur au sein de l'application.
+
+Membre : l'Utilisateur devient membre lorsqu'il est identifié sur l'application.
+
+Identifiant et mot de passe : c'est l'ensemble des informations nécessaires à l'identification d'un Utilisateur sur l'application. L'identifiant et le mot de passe permettent à l'Utilisateur d'accéder à des services réservés aux membres de l'application. Le mot de passe est confidentiel.
+
+ARTICLE 3 : accès aux services
+
+L'application permet à l'Utilisateur un accès gratuit aux services suivants :
+
+    •Jouer des questionnaires;
+    •Créer des questionnaires ;
+    •Partager des questionnaires;
+
+L'application est accessible gratuitement en tout lieu à tout utilisateur. Tous les frais supportés par l'Utilisateur pour accéder au service (matériel informatique, logiciels, connexion Internet, etc.) sont à sa charge.
+
+Tout événement dû à un cas de force majeure ayant pour conséquence un dysfonctionnement de l'application n'engage pas la responsabilité de QcmMaker.
+
+L'accès aux services de l'application peut à tout moment faire l'objet d'une interruption, d'une suspension, d'une modification sans préavis pour une maintenance ou pour tout autre cas. L'Utilisateur s'oblige à ne réclamer aucune indemnisation suite à l'interruption, à la suspension ou à la modification du présent contrat.
+
+L'Utilisateur a la possibilité de contacter l'application par messagerie électronique à l’adresse [qcmmakerapp@gmail.com].
+
+ARTICLE 4 : Propriété intellectuelle
+
+Les marques, logos, signes et tout autre contenu de l'application font l'objet d'une protection par le Code de la propriété intellectuelle et plus particulièrement par le droit d'auteur.
+
+L'Utilisateur sollicite l'autorisation préalable de l'application pour toute reproduction, publication, copie des différents contenus.
+
+Tout contenu créé ou partagé par l'utilisateur est de sa seule responsabilité. L'utilisateur s'engage à ne pas mettre en ligne de contenus pouvant porter atteinte aux intérêts de tierces personnes. Tout recours en justice engagé par un tiers lésé contre l'application sera pris en charge par l'Utilisateur.
+
+ARTICLE 5 : Responsabilité et force majeure
+
+La responsabilité de l'application ne peut être engagée en cas de force majeure ou du fait imprévisible et insurmontable d'un tiers.
+
+ARTICLE 6 : Fichiers et Questionnaires
+
+De nombreux questionnaires et  fichiers de questionnaire peuvent être présents sur l'application, cependant les questionnaires et les contenus de ces fichiers n'engagent en rien la responsabilité de QcmMaker qui n'a pas le contrôle sur ces questionnaires et ces fichiers.
+
+L'Utilisateur s'interdit donc à engager la responsabilité de l'application concernant le contenu et les ressources relatives à ces fichiers et à ces questionnaires.
+
+ARTICLE 7 : Donnée utilisateur
+
+Toutes les informations que vous renseignez dans l'application sont utilisées pour la création de votre fichier de questionnaire et éventuellement pour sa signature  afin de lier votre création à son auteur légitime (Cela se fait essentiellement à votre demande.)
+
+
+ARTICLE 8 : Évolution du contrat
+
+Le site se réserve à tout moment le droit de modifier les clauses stipulées dans le présent contrat.
+
+ARTICLE 9 : Durée
+
+La durée du présent contrat est indéterminée. Le contrat produit ses effets à l'égard de l'Utilisateur à compter de l'utilisation de l'application.

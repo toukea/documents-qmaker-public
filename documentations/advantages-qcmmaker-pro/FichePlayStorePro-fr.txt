@@ -1,0 +1,46 @@
+## Quels avantages dans la version professionnelle?
+La version professionnelle de QcmMaker vient avec beaucoup de belles fonctionnalités supplémentaires qui vous permettront d'éditer des questionnaires encore plus variées, plus configurables, plus dynamiques et tout cela de façon toujours aussi simple et intuitive.  
+
+Cérise sur le gateau, les fichiers **.qcm** partageables générés pourront être **joués** par tous les lecteurs de fichier **.qcm** et même par QcmMaker classique qui est la version totalement gratuite de ce logiciel disponible ici : https://play.google.com/store/apps/details?id=com.devup.qcm.maker
+
+Si vous êtes nouveau et que vous n'êtes pas encore familiarisé avec QcmMaker, vous devez savoir que QcmMaker est une application qui vous permet de créer, de jouer et de partager des questionnaires et quiz de façon simple et intuitive sous la forme d'un simple fichier d'extension *.qcm portable et partageable. (Nb: il ne s'agit pas d'un store de quiz déja tout fait, mais d'un outil qui vous permettant de créer vos propre quiz d'y jouer et d'en recevoir et d'en partager avec vos contacts via un simple fichier portable d'extension *.qcm).
+Si vous souhaitez avoir plus d'informations concernant QcmMaker, svp, jettez un coup d'oeil à la description de la version classique ici: https://play.google.com/store/apps/details?id=com.devup.qcm.maker
+
+Alors, quoi de génial dans la version professionnelle?
+
+### Editez cinq (5) types de questions supplémentaires !  
+Avec la version professionnelle, en plus des **3 types** de questions disponibles dans la version classique à savoir :
+1- question à choix multiples à réponses multiples
+2- question à choix multiples à réponse unique
+3- réponse ouverte.
+
+
+Il vous sera désormais possible de créer **cinq (5)** autres types de question qui sont :
+1 - Énumération
+2 - Remplir les blancs
+3 - Réponse ouverte à multiple possibilités
+4 - Mettre en ordre
+5 - Faire correspondre
+
+Ainsi, avec QcmMaker professionnel, vous pourrez créer un total de 8 types de question-réponses en tout. Soit les trois (3) disponibles dans la version classique auxquels s'ajoute les cinq (5) autres types disponibles exclusivement dans la version professionnelle.
+
+### Plus de configurations sur les question-réponses !
+Avec la version professionnelle, selon le type de question-réponses que vous aurez choisi, il vous sera désormais possible d’éffectuer des réglages plus poussés sur chaque question-réponse.
+Ainsi, pour chaque question-réponse, vous pourrez définir les configurations suivantes :
+1 - Sensible à la case
+2 - Aide à la saisie
+3 - Mélanger les réponses
+
+Grace à ces options de **configurations avancées**, vous pourrez **personnaliser** le comportement de chaque question-réponse de façon **individuelle**.
+
+Note importante :
+QcmMaker-pro est la version professionnelle pleinement fonctionnelle de l'application QcmMaker-classique qui vous donne un accès total à toutes les fonctionnalités avancées pendant une période d'évaluation de 7 jours par appareil. Passez la période d'évaluation, vous devrez activer votre produit avec une souscription annuelle.
+
+NB:
+L'application vient avec un seul fichier questionnaire embarqué "demo.qcm" qui vous permettra de découvrir et d'expérimenter les possibilités offertes par l'application. En suite vous devrez créer les vôtres ou recevoir de nouveaux fichiers de questionnaire (*.qcm) provenant de vos contacts pour les jouer ou les rééditer.
+
+Si vous souhaitez avoir tous les détails concernant la version professionnelle de QcmMaker, vous pouvez vous rendre ici:
+https://stackedit.io/viewer?url=https://qcmmaker.qmakertech.com/documentations/advantages-qcmmaker-pro/body.md
+
+
+Avec Qcm Maker, jouez, créez et partagez des Questionnaires aisément. 🙂

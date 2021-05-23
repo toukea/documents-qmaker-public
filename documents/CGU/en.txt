@@ -1,0 +1,74 @@
+QcmMaker Terms and Conditions
+
+
+Article 1: object
+
+The present "general conditions of use" aim at the legal framework of the methods of making available the services of the QcmMaker application and their use by the "User".
+
+The general conditions of use must be accepted by any User wishing to use the application. They constitute the contract between the application and the User. The use of the application by the User means his acceptance of these terms and conditions of use.
+
+Eventually :
+
+In case of non-acceptance of the general conditions of use stipulated in this contract, the User must renounce access to the services offered by the application.
+
+QcmMaker reserves the right to modify unilaterally and at any time the content of these general conditions of use.
+
+ARTICLE 2: Definitions
+
+The purpose of this clause is to define the various essential terms of the contract:
+
+User: This term refers to any person who uses the application or any of the services offered by the application.
+
+User content: this is the data transmitted by the User within the application.
+
+Member: The user becomes a member when he is identified on the application.
+
+Login and password: this is the set of information needed to identify a User on the application. The username and password allow the User to access services reserved for members of the application. The password is confidential.
+
+ARTICLE 3: Access to services
+
+The application allows the user free access to the following services:
+
+    • Play questionnaires;
+    • Create questionnaires;
+    • Share the questionnaires;
+
+The application is accessible free of charge anywhere to any User. All costs incurred by the User to access the service (hardware, software, Internet connection, etc.) are at his expense.
+
+Any event due to a case of force majeure resulting in a malfunction of the application does not engage the responsibility of QcmMaker.
+
+Access to the application's services may be subject to interruption, suspension, modification without notice for maintenance or any other case at any time. The User undertakes not to claim any compensation following the interruption, the suspension or the modification of this contract.
+
+The User can contact the application by e-mail at [qcmmakerapp@gmail.com].
+
+ARTICLE 4: Intellectual Property
+
+The trademarks, logos, signs and other content of the application are protected by the Code of Intellectual Property and more specifically by copyright.
+
+The User requests the prior authorization of the application for any reproduction, publication, copy of the various contents.
+
+Any content created or shared by the User is his sole responsibility. The User agrees not to put on line content that may affect the interests of third parties. Any legal action brought by an injured party against the application will be borne by the User.
+
+ARTICLE 5: Liability and force majeure
+
+The responsibility of the application can not be committed in case of force majeure or the unpredictable and insurmountable fact of a third.
+
+ARTICLE 6: Files and Questionnaires
+
+Many Questionnaires and questionnaire files may be present on the application, however the questionnaires and contents of these files do not engage the responsibility of QcmMaker who does not have control over these questionnaires and these files.
+
+The User is therefore prohibited from engaging the responsibility of the application concerning the content and resources relating to these files and questionnaires.
+
+ARTICLE 7: User Data
+
+All the information you fill in the application is used for the creation of your questionnaire file and possibly for its signature in order to link your creation to its legitimate author (This is essentially at your request.).
+
+Also, we are using Firebase analytics tools in order to measure traffic and app usage. This tools collect information  that assists us in improving the service. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user. 
+
+ARTICLE 8: Evolution of the contract
+
+The site reserves the right at any time to modify the clauses stipulated in this contract.
+
+ARTICLE 9: Duration
+
+The duration of this contract is indefinite. The contract has effect with respect to the User from the use of the application.
